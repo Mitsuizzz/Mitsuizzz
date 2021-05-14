@@ -20,8 +20,18 @@
     </a>
   </p>
   
+  <p>
+    <a href="https://github.com/Mitsuizzz/fastgit">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mitsuizzz&repo=fastgit" />
+    </a>
+  </p>
+  
+  <p>
+    <a href="https://github.com/Mitsuizzz">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsuizzz" />
+    </a>
+  </p>
+  
   <br>
   <br>
 </div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mitsuizzz&repo=fastgit)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsuizzz)](https://github.com/anuraghazra/github-readme-stats)
