@@ -10,7 +10,7 @@
   <p>Hi, I'm Mitsuizz, Fullstack developer from Shanghai, China.</p>
   <p>
     <a href="https://github.com/Mitsuizzz">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mitsuizzz&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Mitsuizzz&show_icons=true&icon_color=805AD5&count_private=true&include_all_commits=true&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
     </a>
   </p>
   
@@ -23,3 +23,5 @@
   <br>
   <br>
 </div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mitsuizzz&repo=fastgit)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsuizzz)](https://github.com/anuraghazra/github-readme-stats)
