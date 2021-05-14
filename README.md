@@ -20,12 +20,13 @@
     </a>
   </p>
   
+  <br>
   <p>
     <a href="https://github.com/Mitsuizzz/fastgit">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mitsuizzz&repo=fastgit" />
     </a>
   </p>
-  
+  <br>
   <p>
     <a href="https://github.com/Mitsuizzz">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsuizzz" />
