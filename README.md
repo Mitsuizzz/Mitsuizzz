@@ -1,6 +1,6 @@
 [Weibo](http://weibo.com/XXXX) • [Twitter](https://twitter.com/XXXXX) • [E-Mail](mailto:mitsuizzz@foxmail.com)
 
-<div align="center">
+<div align="right">
   <br>
   <br>
   <br>
@@ -23,3 +23,10 @@
   <br>
   <br>
 </div>
+
+### 你好 👋
+
+- :orange_book: Focusing on Java
+- :hammer: Creator of applications and frameworks
+- :ram: Founder the ObjCCN
+- :meat_on_bone: Meat lover
