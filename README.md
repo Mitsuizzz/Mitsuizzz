@@ -17,9 +17,10 @@ public class Start {
 ```
 
 
-## 📝 Blogs
+## 📝 Blogs & Email
 
 - Personal Blog: https://Mitsuizzz.github.io/
+- Email: mitsuizzz@foxmail.com
 
 ## 🔧 Technologies & Tools
 
