@@ -19,7 +19,7 @@ public class Start {
 
 ## 📝 Blogs & Email
 
-- Personal Blog: https://zhidaxin.cn/
+- Personal Blog: https://mitsui.im/
 - Email: mitsuizzz@foxmail.com
 
 ## 🔧 Technologies & Tools
